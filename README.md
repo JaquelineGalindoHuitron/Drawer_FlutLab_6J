@@ -23,9 +23,9 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/JaquelineGalindoHuitron/p9_Drawer_FlutLab/assets/143548375/25e75878-fed1-49d7-8523-123b8c722e16)
 
 # Link de referencias
-https://appmaking.com/flutter-drawer-example/
-https://blog.logrocket.com/how-to-add-navigation-drawer-flutter/
+https://appmaking.com/flutter-drawer-example/ 
+https://blog.logrocket.com/how-to-add-navigation-drawer-flutter/ 
 https://medium.com/flutter-community/flutter-vi-navigation-drawer-flutter-1-0-3a05e09b0db9
 
 # Youtube Link
-https://www.youtube.com/watch?si=aukMEV1Q4dp5t1Ta&v=jDQQM1RfjNc&feature=youtu.be
+https://www.youtube.com/watch?si=aukMEV1Q4dp5t1Ta&v=jDQQM1RfjNc&feature=youtu.be 
